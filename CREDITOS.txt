@@ -1,4 +1,0 @@
-visual studio code
-jquery
-laravel
-vue
